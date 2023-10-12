@@ -5,6 +5,7 @@ public class Modifier {
 	public static void main(String[] args) {
 		int a=8;
 		System.err.println(a);
+		System.out.println(a);
 		// TODO Auto-generated method stub
 
 	}
